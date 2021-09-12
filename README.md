@@ -71,8 +71,6 @@
 
 </h4>
 
-<br> 
-
 ## ✉️ Contact Us
 [Saksham Shekher](https://telegram.me/PurityWasHere)
 
