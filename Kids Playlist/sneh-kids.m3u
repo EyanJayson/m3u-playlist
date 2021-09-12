@@ -6,9 +6,6 @@ http://70.39.83.58:8278/nickhindikdin/playlist.m3u8
 #EXTINF: -1 tvg-id="002" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Hindi.png" group-title="Sneh Kids", Pogo Hindi
 http://70.39.83.58:8278/pogohindikdin/playlist.m3u8
 
-#EXTINF: -1 tvg-id="99" tvg-logo="https://i.ibb.co/tDy3byh/logo.webp" group-title="Sneh Kids", Oshekher
-https://github.com/Oshekher
-
 #EXTINF: -1 tvg-id="003" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png" group-title="Sneh Kids", Cartoon Network Hindi
 http://70.39.83.58:8278/cartoonnetworkhindikdin/playlist.m3u8
 
@@ -23,9 +20,6 @@ http://70.39.83.58:8278/sonichindikdin/playlist.m3u8
 
 #EXTINF: -1 tvg-id="005" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png" group-title="Sneh Kids", Sony Yay Hindi
 http://70.39.83.58:8278/sonyyayhindikdin/playlist.m3u8
-
-#EXTINF: -1 tvg-id="99" tvg-logo="https://i.ibb.co/tDy3byh/logo.webp" group-title="Sneh Kids", Oshekher
-https://github.com/Oshekher
 
 #EXTINF: -1 tvg-id="006" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Kids_2.png" group-title="Sneh Kids", Discovery Kids Hindi
 https://itvoign.multitvsolution.com/idvo/discoverykidshindi.m3u8
