@@ -26,7 +26,7 @@
 
 ## Movies Playlists
 
-• 1st Link : <a href="https://github.com/OneFusionPlus/m3u-playlist/raw/main/Indian%20Playlist/Indian_Movies_Playlist.m3u">Latest Movies</a>  <br> 
+• 1st Link : <a href="https://github.com/OneFusionPlus/m3u-playlist/blob/main/Indian%20Playlist/Movies_Playlist.m3u">Latest Movies</a>  <br> 
 • 2nd Link : <a href="https://raw.githubusercontent.com/OneFusionPlus/m3u-playlist/main/Indian%20Playlist/sneh-hindi-movies.m3u">Old Hindi Movies</a>  <br> 
 
 ## Kids Playlists
