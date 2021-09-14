@@ -45,7 +45,11 @@
 • Right click on m3u playlists to copy and play in Tivimate App<br><br>
 • Click On Channels Which You Want to Play<br><br>
 • And Just Enjoy 
- 
+
+## Chinese CCTV List (IPV4)
+
+• Link : <a href="https://raw.githubusercontent.com/OneFusionPlus/m3u-playlist/main/China%20Playlist/TV-IPV4.m3u">China Playlists </a>  <br><br>
+
 ---
  
 ## 📽 Tivimate Premium v2.8.0 
