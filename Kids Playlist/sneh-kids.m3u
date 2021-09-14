@@ -3,14 +3,23 @@
 #EXTINF: -1 tvg-id="001" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Hindi.png" group-title="Sneh Kids", Nick Hindi
 http://70.39.83.58:8278/nickhindikdin/playlist.m3u8
 
+#EXTINF: -1 tvg-id="001" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Hindi.png" group-title="Sneh Kids", Nick Hindi
+http://pkr.cinepex.tv:8278/nickhindikdin/playlist.m3u8
+
 #EXTINF: -1 tvg-id="002" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Hindi.png" group-title="Sneh Kids", Pogo Hindi
 http://70.39.83.58:8278/pogohindikdin/playlist.m3u8
+
+#EXTINF: -1 tvg-id="002" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Hindi.png" group-title="Sneh Kids", Pogo Hindi
+http://pkr.cinepex.tv:8278/pogohindikdin/playlist.m3u8
 
 #EXTINF: -1 tvg-id="003" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png" group-title="Sneh Kids", Cartoon Network Hindi
 http://70.39.83.58:8278/cartoonnetworkhindikdin/playlist.m3u8
 
 #EXTINF: -1 tvg-id="003" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png" group-title="Sneh Kids", Cartoon Network Hindi
 https://bit.ly/3yII8OD
+
+#EXTINF: -1 tvg-id="003" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png" group-title="Sneh Kids", Cartoon Network Hindi
+http://pkr.cinepex.tv:8278/cartoonnetworkhindikdin/playlist.m3u8
 
 #EXTINF: -1 tvg-id="003" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png" group-title="Sneh Kids", Cartoon Network English
 http://212.102.60.76:80/o1/mono.m3u8
@@ -41,6 +50,9 @@ http://54.39.134.91:9090/24x7_kids_cr3/tracks-v1a1/mono.m3u8
 
 #EXTINF: -1 tvg-id="011" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD3seVNnvAgJgrbHf9uQxWn9rLAdxB9LHv1w&usqp=CAU" group-title="Sneh Kids", Marvel HQ Hindi
 http://70.39.83.58:8278/marvelhqhindikdin/playlist.m3u8
+
+#EXTINF: -1 tvg-id="011" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD3seVNnvAgJgrbHf9uQxWn9rLAdxB9LHv1w&usqp=CAU" group-title="Sneh Kids", Marvel HQ Hindi
+http://pkr.cinepex.tv:8278/marvelhqhindikdin/playlist.m3u8
 
 #EXTINF: -1 tvg-id="011" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD3seVNnvAgJgrbHf9uQxWn9rLAdxB9LHv1w&usqp=CAU" group-title="Sneh Kids", Marvel HQ
 https://feed.play.mv/live/10005200/niZoVrR2vD/master.m3u8
