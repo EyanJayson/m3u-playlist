@@ -2639,10 +2639,14 @@ http://93.190.139.35:8278/streams/d/Starplushd/playlist.m3u8
 http://tv.zaintv.net:80/Davidemmanuel/D477376480/56313
 #EXTINF:-1 tvg-name="Star Plus HD hd"group-title="Sneh Movies",Star Plus HD
 http://89.187.182.181:9090/SM_FHD-HINDI-STARPLUS/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-name="Star Plus HD hd"group-title="Sneh Movies",Star Plus HD
+https://bit.ly/3nhpLhH
 #EXTINF:-1 tvg-name="Star Bharat HD hd"group-title="Sneh Movies",Star Bharat HD
 http://watchindia.net:8880/live/33253/72963/780.m3u8
 #EXTINF:-1 tvg-name="Star Bharat HD hd"group-title="Sneh Movies",Star Bharat HD
 http://89.187.182.181:9090/SM_FHD-HINDI-STARBHARAT/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-name="Star Bharat HD hd"group-title="Sneh Movies",Star Bharat HD
+https://bit.ly/2X0OonD
 #EXTINF:-1 tvg-name="And tv HD hd"group-title="Sneh Movies",And Tv HD
 http://watchindia.net:8880/live/33253/72963/782.m3u8
 #EXTINF:-1 tvg-name="And tv HD hd"group-title="Sneh Movies",And Tv HD
@@ -2663,6 +2667,8 @@ https://feed.play.mv/live/10005200/6G8zJ9XsyB/master.m3u8
 http://93.190.139.35:8278/streams/d/Colorhd/playlist.m3u8
 #EXTINF:-1 tvg-name="Zee Tv Hd" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale,f_auto,q_auto/resources/0-9-zeetvhd/list/09zeetvhdzeetvhd.jpg" group-title="Sneh Entertainment",Zee Tv Hd
 https://y5w8j4a9.ssl.hwcdn.net/ztvme/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-name="Zee Tv Hd" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale,f_auto,q_auto/resources/0-9-zeetvhd/list/09zeetvhdzeetvhd.jpg" group-title="Sneh Entertainment",Zee Tv
+https://bit.ly/3nlspTC
 #EXTINF:0 type="stream" channelId="-1" aspect-ratio="16:9", Zee TV HD
 https://y5w8j4a9.ssl.hwcdn.net/ztvme//tracks-v1a1/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" aspect-ratio="16:9", Zee TV HD
