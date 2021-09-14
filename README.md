@@ -46,6 +46,14 @@
 • Click On Channels Which You Want to Play<br><br>
 • And Just Enjoy 
 
+## ADULT PLAYLIST
+
+• 1st Link : <a href="https://raw.githubusercontent.com/OneFusionPlus/m3u-playlist/main/XXX%20Playlist/vods.m3u8"> 6000+ videos </a><br>
+• 2nd Link : <a href="https://raw.githubusercontent.com/OneFusionPlus/m3u-playlist/main/XXX%20Playlist/all.m3u"> Adult IPTV </a><br>
+• 3rd Link : <a href="https://raw.githubusercontent.com/OneFusionPlus/m3u-playlist/main/XXX%20Playlist/xxx.m3u"> XXX MOV 1 </a><br><br>
+• 4th Link : <a href="https://raw.githubusercontent.com/OneFusionPlus/m3u-playlist/main/XXX%20Playlist/xxx-2.m3u"> XXX MOV 2 </a><br><br>
+• 5th Link : <a href="https://raw.githubusercontent.com/OneFusionPlus/m3u-playlist/main/XXX%20Playlist/xxx-3.m3u"> XXX MOV 3 </a><br><br>
+
 ## Chinese CCTV List (IPV4)
 
 • Link : <a href="https://raw.githubusercontent.com/OneFusionPlus/m3u-playlist/main/China%20Playlist/TV-IPV4.m3u">China Playlists </a>  <br><br>
