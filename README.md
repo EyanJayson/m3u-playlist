@@ -50,13 +50,13 @@
 
 • 1st Link : <a href="https://raw.githubusercontent.com/OneFusionPlus/m3u-playlist/main/XXX%20Playlist/vods.m3u8"> 6000+ videos </a><br>
 • 2nd Link : <a href="https://raw.githubusercontent.com/OneFusionPlus/m3u-playlist/main/XXX%20Playlist/all.m3u"> Adult IPTV </a><br>
-• 3rd Link : <a href="https://raw.githubusercontent.com/OneFusionPlus/m3u-playlist/main/XXX%20Playlist/xxx.m3u"> XXX MOV 1 </a><br><br>
-• 4th Link : <a href="https://raw.githubusercontent.com/OneFusionPlus/m3u-playlist/main/XXX%20Playlist/xxx-2.m3u"> XXX MOV 2 </a><br><br>
+• 3rd Link : <a href="https://raw.githubusercontent.com/OneFusionPlus/m3u-playlist/main/XXX%20Playlist/xxx.m3u"> XXX MOV 1 </a><br>
+• 4th Link : <a href="https://raw.githubusercontent.com/OneFusionPlus/m3u-playlist/main/XXX%20Playlist/xxx-2.m3u"> XXX MOV 2 </a><br>
 • 5th Link : <a href="https://raw.githubusercontent.com/OneFusionPlus/m3u-playlist/main/XXX%20Playlist/xxx-3.m3u"> XXX MOV 3 </a><br><br>
 
 ## Chinese CCTV List (IPV4)
 
-• Link : <a href="https://raw.githubusercontent.com/OneFusionPlus/m3u-playlist/main/China%20Playlist/TV-IPV4.m3u">China Playlists </a>  <br><br>
+• 1st Link : <a href="https://raw.githubusercontent.com/OneFusionPlus/m3u-playlist/main/China%20Playlist/TV-IPV4.m3u">China Playlists </a>  <br><br>
 
 ---
  
@@ -71,6 +71,12 @@
 
 • Download <a href="https://files.moddroid.com/IPTV%20Smarters%20Pro/IPTV_Smarters_Pro_v3.0.9.4_-_Mod_-_Armeabi-v7a.apk">IPTV Smarters Pro v3.0.9</a> to Play Live Channels<br><br>
 • Also Play in IPTV Smarters App<br><br>
+
+## 📽 OTT Navigator v1.6.6.6
+[ FIRESTICK / ANDROID ]
+
+• Download <a href="https://wenzs-my.sharepoint.com/:u:/g/personal/oshekehr_free_stulive_com/EQpwbQiL2odIsC6o8vpwBLoBfpVtW_HPKzR-T2EwqevKIg?download=1">OTT Navigator v1.6.6.6</a> to Play Live Channels<br><br>
+• Also Play in OTT Navigator App<br><br>
 
 ## 📽 IPTVNATOR v0.8.0 
 [ LINUX / WINDOWS ]
