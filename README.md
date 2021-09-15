@@ -21,7 +21,7 @@
 ## Indian Playlists
 
 • 1st Link : <a href="https://raw.githubusercontent.com/OneFusionPlus/m3u-playlist/main/Indian%20Playlist/sneh-jio-tv.m3u">Sneh jio tv</a>  <br>
-• 2nd Link : <a href="https://raw.githubusercontent.com/OneFusionPlus/m3u-playlist/main/Indian%20Playlist/All_Indian_Mix_SkyMedia_Playlist.m3u">Mix Skymedia v1.0</a>  <br>
+• 2nd Link : <a href="https://raw.githubusercontent.com/OneFusionPlus/m3u-playlist/main/Mix%20Indian%20Playlist/Mix_SkyMedia_Playlist.m3u">Mix Skymedia v1.0</a>  <br>
 • 3rd Link : <a href="https://iptv-org.github.io/iptv/countries/in.m3u">IPTV-ORG INDIA</a>  <br><br> 
 
 ## Movies Playlists
@@ -33,7 +33,7 @@
 
 • 1st Link : <a href="https://raw.githubusercontent.com/OneFusionPlus/m3u-playlist/main/Kids%20Playlist/sneh-kids.m3u">Sneh Kids Playlist</a>  <br><br>
 
-## Zee5 & Sony & Tatasky Playlists
+## Zee5 & Sony Playlists
 
 • 1st Link : <a href="https://raw.githubusercontent.com/OneFusionPlus/m3u-playlist/main/Zee5%20%26%20Sony%20Playlist/Sony%26Zee5-Sneh-IPTV.m3u">Sneh Sony & Zee5 Playlists </a><br>
 • 2nd Link : <a href="https://raw.githubusercontent.com/OneFusionPlus/m3u-playlist/main/Zee5%20%26%20Sony%20Playlist/sony-sneh-iptv.m3u">Sony Playlists </a><br>
