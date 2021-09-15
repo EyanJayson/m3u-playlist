@@ -33,12 +33,13 @@
 
 • 1st Link : <a href="https://raw.githubusercontent.com/OneFusionPlus/m3u-playlist/main/Kids%20Playlist/sneh-kids.m3u">Sneh Kids Playlist</a>  <br><br>
 
-## Zee5 & Sony Playlists
+## Zee5 & Sony & TataSky Playlists
 
 • 1st Link : <a href="https://raw.githubusercontent.com/OneFusionPlus/m3u-playlist/main/Zee5%20%26%20Sony%20Playlist/Sony%26Zee5-Sneh-IPTV.m3u">Sneh Sony & Zee5 Playlists </a><br>
 • 2nd Link : <a href="https://raw.githubusercontent.com/OneFusionPlus/m3u-playlist/main/Zee5%20%26%20Sony%20Playlist/sony-sneh-iptv.m3u">Sony Playlists </a><br>
 • 3rd Link : <a href="https://raw.githubusercontent.com/OneFusionPlus/m3u-playlist/main/Zee5%20%26%20Sony%20Playlist/mxplayer.m3u">MxPlayer Playlists </a><br><br>
- 
+• 4th Link : <a href="https://raw.githubusercontent.com/OneFusionPlus/m3u-playlist/main/TataSky%20Playlist/sneh-tatasky-plus.m3u">TataSky Playlists </a><br><br>
+
 ## Indian Radio Playlists
 
 • 1st Link : <a href="https://raw.githubusercontent.com/OneFusionPlus/m3u-playlist/main/Radio%20Playlist/sneh-radio.m3u">Radio Playlists </a>  <br><br>
