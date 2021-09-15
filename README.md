@@ -20,7 +20,7 @@
 
 ## Indian Playlists
 
-• 1st Link : <a href="https://raw.githubusercontent.com/OneFusionPlus/m3u-playlist/main/Indian%20Playlist/sneh-jio-tv.m3u">Sneh jio tv</a>  <br>
+• 1st Link : <a href="https://raw.githubusercontent.com/OneFusionPlus/m3u-playlist/main/Indian%20Playlist/sneh-jio-tv.m3u">Sneh jio tv ( under maintenance )</a>  <br>
 • 2nd Link : <a href="https://raw.githubusercontent.com/OneFusionPlus/m3u-playlist/main/Mix%20Indian%20Playlist/Mix_SkyMedia_Playlist.m3u">Mix Skymedia v1.0</a>  <br>
 • 3rd Link : <a href="https://iptv-org.github.io/iptv/countries/in.m3u">IPTV-ORG INDIA</a>  <br><br> 
 
