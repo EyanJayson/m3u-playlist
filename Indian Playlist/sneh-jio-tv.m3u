@@ -358,26 +358,18 @@ https://snehz5tv.herokuapp.com?c=0-9-377
 #EXTINF:-1 tvg-id="1" tvg-logo="" group-title="SNEH ZEE5 LIVE",TV9 Bangla
 https://snehz5tv.herokuapp.com?c=0-9-378 
 
-#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png" group-title="Sneh JIO TV",Sony SAB HD
-https://tvstream.space/jtv/hahaha.php?c=Sony_SAB_HD&q=1200&e=junk.m3u8
-
-#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="Sneh JIO TV",Sony SAB
-https://tvstream.space/jtv/hahaha.php?c=Sony_SAB&q=1200&e=junk.m3u8
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png" group-title="Sneh JIO TV",And TV HD
-https://tvstream.space/jtv/hahaha.php?c=And_TV_HD&q=1200&e=junk.m3u8
+https://snehz5tv.herokuapp.com?c=0-9-tvhd_0
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png" group-title="Sneh JIO TV",Zee TV HD
-https://tvstream.space/jtv/hahaha.php?c=Zee_TV_HD&q=1200&e=junk.m3u8
-
-#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Sneh JIO TV",Colors HD
-https://tvstream.space/jtv/hahaha.php?c=Colors_HD&q=1200&e=junk.m3u8
+https://snehz5tv.herokuapp.com?c=0-9-zeetvhd
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Sneh JIO TV",Colors HD
 http://51.79.84.156:8082/ColorsIn/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol.png" group-title="Sneh JIO TV",Zee Anmol
-https://tvstream.space/jtv/hahaha.php?c=Zee_Anmol&q=1200&e=junk.m3u8
+https://snehz5tv.herokuapp.com?c=0-9-zeeanmol
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey.png" group-title="Sneh JIO TV",Rishtey
 https://tvstream.space/jtv/hahaha.php?c=Rishtey&q=1200&e=junk.m3u8
@@ -425,10 +417,10 @@ https://tvstream.space/jtv/hahaha.php?c=Jio_Cricket_1_HD&q=1200&e=junk.m3u8
 https://tvstream.space/jtv/hahaha.php?c=Sony_Max_HD&q=1200&e=junk.m3u8
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" group-title="Sneh JIO TV",Zee Cinema HD
-https://tvstream.space/jtv/hahaha.php?c=Zee_Cinema_HD&q=1200&e=junk.m3u8
+https://snehz5tv.herokuapp.com?c=0-9-zeecinemahd
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema.png" group-title="Sneh JIO TV",Zee Cinema
-https://tvstream.space/jtv/hahaha.php?c=Zee_Cinema&q=1200&e=junk.m3u8
+https://snehz5tv.herokuapp.com?c=0-9-zeecinema
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_1.png" group-title="Sneh JIO TV",Jio Football 1 HD
 https://tvstream.space/jtv/hahaha.php?c=Jio_Football_1&q=1200&e=junk.m3u8
@@ -440,10 +432,10 @@ https://tvstream.space/jtv/hahaha.php?c=Jio_Football_2&q=1200&e=junk.m3u8
 https://tvstream.space/jtv/hahaha.php?c=Jio_Football_3&q=1200&e=junk.m3u8
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Classic.png" group-title="Sneh JIO TV",Zee Bollywood
-https://tvstream.space/jtv/hahaha.php?c=Zee_Classic&q=1200&e=junk.m3u8
+https://snehz5tv.herokuapp.com?c=0-9-zeeclassic
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png" group-title="Sneh JIO TV",And Pictures HD
-https://tvstream.space/jtv/hahaha.php?c=And_Pictures_HD&q=1200&e=junk.m3u8
+https://snehz5tv.herokuapp.com?c=0-9-tvpictureshd
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Action.png" group-title="Sneh JIO TV",Zee Action
 https://tvstream.space/jtv/hahaha.php?c=Zee_Action&q=1200&e=junk.m3u8
