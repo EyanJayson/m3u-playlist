@@ -20,50 +20,50 @@
 
 ## Indian Playlists
 
-• 1st Link : <a href="https://raw.githubusercontent.com/OneFusionPlus/m3u-playlist/main/Indian%20Playlist/weekly-updated.m3u">Weekly-Updated</a>  <br>
-• 2nd Link : <a href="https://raw.githubusercontent.com/OneFusionPlus/m3u-playlist/main/Indian%20Playlist/Mix_South_Tatasky.m3u">Mix_South_Tatasky</a>  <br>
-• 3rd Link : <a href="https://iptv-org.github.io/iptv/countries/in.m3u">IPTV-ORG INDIA</a>  <br><br> 
+• 1st Link : <a href="https://raw.githack.com/OneFusionPlus/m3u-playlist/main/Indian%20Playlist/weekly-updated.m3u">Weekly-Updated</a>  <br>
+• 2nd Link : <a href="https://rawcdn.githack.com/OneFusionPlus/m3u-playlist/56e0e5b13cdf0eb56d440a173c757a290ebe948a/Indian%20Playlist/Mix_South_Tatasky.m3u">Mix_South_Tatasky</a>  <br>
+• 3rd Link : <a href="https://raw.githack.com/iptv-org/iptv/master/channels/in.m3u">IPTV-ORG INDIA</a>  <br><br> 
 
 ## Movies Playlists
 
-• 1st Link : <a href="https://raw.githubusercontent.com/OneFusionPlus/m3u-playlist/main/Indian%20Playlist/Movies_Playlist.m3u">Latest Movies ( OTT NAV ONLY ) </a>  <br> 
-• 2nd Link : <a href="https://raw.githubusercontent.com/OneFusionPlus/m3u-playlist/main/Indian%20Playlist/sneh-hindi-movies.m3u">Old Hindi Movies</a>  <br> 
-• 3rd Link : <a href="https://raw.githubusercontent.com/OneFusionPlus/m3u-playlist/main/Indian%20Playlist/Movies.m3u">Movies Latest</a>  <br><br>
+• 1st Link : <a href="https://raw.githack.com/OneFusionPlus/m3u-playlist/main/Indian%20Playlist/Movies_Playlist.m3u">Latest Movies ( OTT NAV ONLY ) </a>  <br> 
+• 2nd Link : <a href="https://rawcdn.githack.com/OneFusionPlus/m3u-playlist/56e0e5b13cdf0eb56d440a173c757a290ebe948a/Indian%20Playlist/sneh-hindi-movies.m3u">Old Hindi Movies</a>  <br> 
+• 3rd Link : <a href="https://rawcdn.githack.com/OneFusionPlus/m3u-playlist/56e0e5b13cdf0eb56d440a173c757a290ebe948a/Indian%20Playlist/Movies.m3u">Movies Latest</a>  <br><br>
 
 ## Kids Playlists
 
-• 1st Link : <a href="https://raw.githubusercontent.com/OneFusionPlus/m3u-playlist/main/Kids%20Playlist/sneh-kids.m3u">Sneh Kids Playlist</a>  <br><br>
+• 1st Link : <a href="https://rawcdn.githack.com/OneFusionPlus/m3u-playlist/56e0e5b13cdf0eb56d440a173c757a290ebe948a/Kids%20Playlist/sneh-kids.m3u">Sneh Kids Playlist</a>  <br><br>
 
 ## Zee5 & Sony & TataSky
 
-• 1st Link : <a href="https://raw.githubusercontent.com/OneFusionPlus/m3u-playlist/main/Zee5%20%26%20Sony%20Playlist/Sony%26Zee5-Sneh-IPTV.m3u">Sneh Sony & Zee5 Playlists </a><br>
-• 2nd Link : <a href="https://raw.githubusercontent.com/OneFusionPlus/m3u-playlist/main/Zee5%20%26%20Sony%20Playlist/sony-sneh-iptv.m3u">Sony Playlists </a><br>
-• 3rd Link : <a href="https://raw.githubusercontent.com/OneFusionPlus/m3u-playlist/main/Zee5%20%26%20Sony%20Playlist/mxplayer.m3u">MxPlayer Playlists </a><br>
-• 4th Link : <a href="https://raw.githubusercontent.com/OneFusionPlus/m3u-playlist/main/TataSky%20Playlist/sneh-tatasky-plus.m3u">TataSky Playlists </a><br>
-• 5th Link : <a href="https://raw.githubusercontent.com/OneFusionPlus/m3u-playlist/main/Zee5%20%26%20Sony%20Playlist/voot.m3u">Voot Playlists </a><br><br>
+• 1st Link : <a href="https://raw.githack.com/OneFusionPlus/m3u-playlist/main/Zee5%20&%20Sony%20Playlist/Sony&Zee5-Sneh-IPTV.m3u">Sneh Sony & Zee5 Playlists </a><br>
+• 2nd Link : <a href="https://raw.githack.com/OneFusionPlus/m3u-playlist/main/Zee5%20&%20Sony%20Playlist/sony-sneh-iptv.m3u">Sony Playlists </a><br>
+• 3rd Link : <a href="https://raw.githack.com/OneFusionPlus/m3u-playlist/main/Zee5%20&%20Sony%20Playlist/mxplayer.m3u">MxPlayer Playlists </a><br>
+• 4th Link : <a href="https://raw.githack.com/OneFusionPlus/m3u-playlist/main/TataSky%20Playlist/sneh-tatasky-plus.m3u">TataSky Playlists </a><br>
+• 5th Link : <a href="https://raw.githack.com/OneFusionPlus/m3u-playlist/main/Zee5%20&%20Sony%20Playlist/voot.m3u">Voot Playlists </a><br><br>
 
 ## Indian Radio Playlists
 
-• 1st Link : <a href="https://raw.githubusercontent.com/OneFusionPlus/m3u-playlist/main/Radio%20Playlist/sneh-radio.m3u">Radio Playlists </a>  <br><br>
+• 1st Link : <a href="https://rawcdn.githack.com/OneFusionPlus/m3u-playlist/56e0e5b13cdf0eb56d440a173c757a290ebe948a/Radio%20Playlist/sneh-radio.m3u">Radio Playlists </a>  <br><br>
 • Right click on m3u playlists to copy and play in Tivimate App<br><br>
 • Click On Channels Which You Want to Play<br><br>
 • And Just Enjoy 
 
-## Indian Radio Playlists
+## YouTube Playlists
 
-• 1st Link : <a href="https://raw.githubusercontent.com/OneFusionPlus/m3u-playlist/main/YouTube%20Playlist/youtube.m3u">YouTube Playlist </a>  <br><br>
+• 1st Link : <a href="https://raw.githack.com/OneFusionPlus/m3u-playlist/main/YouTube%20Playlist/youtube.m3u">YouTube Playlist </a>  <br><br>
 
 ## ADULT PLAYLIST
 
-• 1st Link : <a href="https://raw.githubusercontent.com/OneFusionPlus/m3u-playlist/main/XXX%20Playlist/vods.m3u8"> 6000+ videos </a><br>
-• 2nd Link : <a href="https://raw.githubusercontent.com/OneFusionPlus/m3u-playlist/main/XXX%20Playlist/all.m3u"> Adult IPTV </a><br>
-• 3rd Link : <a href="https://raw.githubusercontent.com/OneFusionPlus/m3u-playlist/main/XXX%20Playlist/xxx.m3u"> XXX MOV 1 </a><br>
-• 4th Link : <a href="https://raw.githubusercontent.com/OneFusionPlus/m3u-playlist/main/XXX%20Playlist/xxx-2.m3u"> XXX MOV 2 </a>
-• 5th Link : <a href="https://raw.githubusercontent.com/OneFusionPlus/m3u-playlist/main/XXX%20Playlist/xxx-3.m3u"> XXX MOV 3 </a><br><br>
+• 1st Link : <a href="https://rawcdn.githack.com/OneFusionPlus/m3u-playlist/56e0e5b13cdf0eb56d440a173c757a290ebe948a/XXX%20Playlist/vods.m3u8"> 6000+ videos </a><br>
+• 2nd Link : <a href="https://rawcdn.githack.com/OneFusionPlus/m3u-playlist/56e0e5b13cdf0eb56d440a173c757a290ebe948a/XXX%20Playlist/all.m3u"> Adult IPTV </a><br>
+• 3rd Link : <a href="https://rawcdn.githack.com/OneFusionPlus/m3u-playlist/56e0e5b13cdf0eb56d440a173c757a290ebe948a/XXX%20Playlist/xxx.m3u"> XXX MOV 1 </a><br>
+• 4th Link : <a href="https://rawcdn.githack.com/OneFusionPlus/m3u-playlist/56e0e5b13cdf0eb56d440a173c757a290ebe948a/XXX%20Playlist/xxx-2.m3u"> XXX MOV 2 </a>
+• 5th Link : <a href="https://rawcdn.githack.com/OneFusionPlus/m3u-playlist/56e0e5b13cdf0eb56d440a173c757a290ebe948a/XXX%20Playlist/xxx-3.m3u"> XXX MOV 3 </a><br><br>
 
 ## Chinese CCTV List (IPV4)
 
-• 1st Link : <a href="https://raw.githubusercontent.com/OneFusionPlus/m3u-playlist/main/China%20Playlist/TV-IPV4.m3u">China Playlists </a>  <br><br>
+• 1st Link : <a href="https://rawcdn.githack.com/OneFusionPlus/m3u-playlist/56e0e5b13cdf0eb56d440a173c757a290ebe948a/China%20Playlist/TV-IPV4.m3u">China Playlists </a>  <br><br>
 
 ---
  
