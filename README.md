@@ -91,6 +91,31 @@
 • Download <a href="https://github.com/4gray/iptvnator/releases">IPTVNATOR</a> to Play Live Channels<br><br>
 • Also Play in IPTVNATOR<br><br>
 
+---
+
+#### MacOS
+
+-[VLC for Mac OS X](https://www.videolan.org/vlc/download-macosx.html) Free and open source portable cross-platform media player.
+-[IINA](https://iina.io/)-A modern media player for macOS.
+-[Kodi](https://kodi.tv/)-Free cross-platform media player with library support.
+  -[IPTV Simple PVR](https://kodi.tv/addon/pvr-client/pvr-iptv-simple-client)-Kodi's IPTV live TV and broadcast PVR client plug-in.
+
+#### AppleTV
+
+- [iPlayTV](https://apps.apple.com/us/app/iplaytv/id1072226801)
+  -Edible guide
+    1. Open iPlayTV and click ➕;
+    2. Select Remote Playlist File;
+    3. Enter a name at will on the first line;
+    4. Enter the address given to you on the second line;
+    5. Don't worry about the third line;
+    6. Just click save;
+
+#### iOS
+
+-[GSE SMART IPTV](https://apps.apple.com/us/app/gse-smart-iptv/id1028734023) A complete user-defined advanced IPTV solution for real-time and non-real-time TV/streaming.
+-[Movie Stream: Watch Smart IPTV](https://apps.apple.com/us/app/movie-stream-ip-tv-films/id1450912244)-Chromecast-enabled application that allows you to add your favorite videos Stream from mobile device to TV.
+-[nPlayer](https://apps.apple.com/cn/app/nplayer/id1116905928)-Support playlist files: CUE, M3U, PLS
 
 ---
 
