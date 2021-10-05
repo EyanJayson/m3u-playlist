@@ -117,6 +117,10 @@
 -[Movie Stream: Watch Smart IPTV](https://apps.apple.com/us/app/movie-stream-ip-tv-films/id1450912244)-Chromecast-enabled application that allows you to add your favorite videos Stream from mobile device to TV.
 -[nPlayer](https://apps.apple.com/cn/app/nplayer/id1116905928)-Support playlist files: CUE, M3U, PLS
 
+#### PlayStation 4 / Xbox One
+
+-[Plex](https://www.plex.tv/apps-devices/#modal-devices-playstation-4) Client server media player. In order to watch IPTV through the Plex App, you can use the [Cigaras / IPTV.bundle](https://github.com/Cigaras/IPTV.bundle) plug-in.
+
 ---
 
 </h4>
