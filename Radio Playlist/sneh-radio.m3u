@@ -317,3 +317,85 @@ http://s5.voscast.com:8216/;
 https://devraaghdlive-lh.akamaihd.net/i/DevraagHDLive_1_1@336268/master.m3u8
 #EXTINF: -1, group-title="Sneh RADIO | Hindi",Bhajan Radio
 http://192.99.35.215:5086/stream
+#EXTINF:-1, group-title="RADIO | Chinese",CNR 中华之声 (Opt-1)
+http://ngcdn005.cnr.cn/live/zhzs/index.m3u8
+#EXTINF:-1, group-title="RADIO | Chinese",CNR 中华之声 (Opt-2)
+http://ngcdn005.cnr.cn/live/zhzs48/index.m3u8
+#EXTINF:-1, group-title="RADIO | Chinese",CNR 中国之声 (Opt-1)
+http://ngcdn001.cnr.cn/live/zgzs48/index.m3u8
+#EXTINF:-1, group-title="RADIO | Chinese",CNR 中国之声 (Opt-2)
+http://ngcdn001.cnr.cn/live/zgzs/index.m3u8
+#EXTINF:-1, group-title="RADIO | Chinese",CNR 中国乡村之声 (Opt-1)
+http://ngcdn017.cnr.cn/live/xczs48/index.m3u8
+#EXTINF:-1, group-title="RADIO | Chinese",CNR 中国乡村之声 (Opt-3)
+http://ngcdn017.cnr.cn/live/xczs/index.m3u8
+#EXTINF:-1, group-title="RADIO | Chinese",CNR 中国交通广播 (Opt-1)
+http://ngcdn016.cnr.cn/live/gsgljtgb/index.m3u8
+#EXTINF:-1, group-title="RADIO | Chinese",CNR 中国交通广播 (Opt-2)
+http://ngcdn016.cnr.cn/live/gsgljtgb48/index.m3u8
+#EXTINF:-1, group-title="RADIO | Chinese",CNR 华夏之声 (Opt-2)
+http://ngcdn007.cnr.cn/live/hxzs/index.m3u8
+#EXTINF:-1, group-title="RADIO | Chinese",CNR 华夏之声 (Opt-3)
+http://ngcdn007.cnr.cn/live/hxzs48/index.m3u8
+#EXTINF:-1, group-title="RADIO | Chinese",CNR 哈语广播 (Opt-1)
+http://ngcdn025.cnr.cn/live/hygb/index.m3u8
+#EXTINF:-1, group-title="RADIO | Chinese",CNR 哈语广播 (Opt-2)
+http://ngcdn025.cnr.cn/live/hygb48/index.m3u8
+#EXTINF:-1, group-title="RADIO | Chinese",CNR 娱乐广播 (Opt-1)
+http://ngcdn014.cnr.cn/live/ylgb/index.m3u8
+#EXTINF:-1, group-title="RADIO | Chinese",CNR 娱乐广播 (Opt-2)
+http://ngcdn014.cnr.cn/live/ylgb48/index.m3u8
+#EXTINF:-1, group-title="RADIO | Chinese",CNR 文艺之声 (Opt-2)
+http://ngcdn010.cnr.cn/live/wyzs/index.m3u8
+#EXTINF:-1, group-title="RADIO | Chinese",CNR 文艺之声 (Opt-3)
+http://ngcdn010.cnr.cn/live/wyzs48/index.m3u8
+#EXTINF:-1, group-title="RADIO | Chinese",CNR 神州之声 (Opt-1)
+http://ngcdn006.cnr.cn/live/szzs/index.m3u8
+#EXTINF:-1, group-title="RADIO | Chinese",CNR 神州之声 (Opt-2)
+http://ngcdn006.cnr.cn/live/szzs48/index.m3u8
+#EXTINF:-1, group-title="RADIO | Chinese",CNR 经典音乐广播 101.8 (Opt-1)
+http://ngcdn004.cnr.cn/live/dszs48/index.m3u8
+#EXTINF:-1, group-title="RADIO | Chinese",CNR 经典音乐广播 101.8 (Opt-3)
+http://ngcdn004.cnr.cn/live/dszs/index.m3u8
+#EXTINF:-1, group-title="RADIO | Chinese",CNR 经济之声 (Opt-2)
+http://ngcdn002.cnr.cn/live/jjzs/index.m3u8
+#EXTINF:-1, group-title="RADIO | Chinese",CNR 经济之声 (Opt-3)
+http://ngcdn002.cnr.cn/live/jjzs48/index.m3u8
+#EXTINF:-1, group-title="RADIO | Chinese",CNR 维语广播 (Opt-1)
+http://ngcdn013.cnr.cn/live/wygb48/index.m3u8
+#EXTINF:-1, group-title="RADIO | Chinese",CNR 维语广播 (Opt-2)
+http://ngcdn013.cnr.cn/live/wygb/index.m3u8
+#EXTINF:-1, group-title="RADIO | Chinese",CNR 老年之声 (Opt-2)
+http://ngcdn011.cnr.cn/live/lnzs48/index.m3u8
+#EXTINF:-1, group-title="RADIO | Chinese",CNR 老年之声 (Opt-3)
+http://ngcdn011.cnr.cn/live/lnzs/index.m3u8
+#EXTINF:-1, group-title="RADIO | Chinese",CNR 藏语广播 (Opt-1)
+http://ngcdn012.cnr.cn/live/zygb/index.m3u8
+#EXTINF:-1, group-title="RADIO | Chinese",CNR 藏语广播 (Opt-2)
+http://ngcdn012.cnr.cn/live/zygb48/index.m3u8
+#EXTINF:-1, group-title="RADIO | Chinese",CNR 音乐之声 (Opt-2)
+http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
+#EXTINF:-1, group-title="RADIO | Chinese",CNR 音乐之声 (Opt-3)
+http://ngcdn003.cnr.cn/live/yyzs48/index.m3u8
+#EXTINF:-1, group-title="RADIO | Chinese",CNR 香港之声 (Opt-1)
+http://ngcdn008.cnr.cn/live/xgzs48/index.m3u8
+#EXTINF:-1, group-title="RADIO | Chinese",CNR 香港之声 (Opt-3)
+http://ngcdn008.cnr.cn/live/xgzs/index.m3u8
+#EXTINF:-1, group-title="RADIO | RND"CRI Easy FM – FM91.5
+http://sk.cri.cn/915.m3u8
+#EXTINF:-1, group-title="RADIO | RND"CRI Hit FM FM88.7 (Opt-1)
+http://sk.cri.cn/887.m3u8
+#EXTINF:-1, group-title="RADIO | RND"CRI NEWS Plus AM1008 (Opt-2)
+http://sk.cri.cn/am1008.m3u8
+#EXTINF:-1, group-title="RADIO | RND"CRI NEWS Plus AM846
+http://sk.cri.cn/am846.m3u8
+#EXTINF:-1, group-title="RADIO | RND"CRI 中文环球广播 (Opt-2)
+http://sk.cri.cn/hyhq.m3u8
+#EXTINF:-1, group-title="RADIO | RND"CRI 南海之声 (Opt-2)
+http://sk.cri.cn/nhzs.m3u8
+#EXTINF:-1, group-title="RADIO | RND"CRI 客家之声
+http://sk.cri.cn/hakka.m3u8
+#EXTINF:-1, group-title="RADIO | RND"CRI 环球资讯广播 FM90.5 (Opt-2)
+http://sk.cri.cn/905.m3u8
+#EXTINF:-1, group-title="RADIO | RND",CRI 闽南之音 (Opt-2)
+http://sk.cri.cn/minnan.m3u8
