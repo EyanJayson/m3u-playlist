@@ -140,4 +140,6 @@
 ## Star this Repo if you Liked it
 
 ---
+Disclaimer: I in no possible way I endorse these links and they are openly availbale to the public on the internet!
+
 <h5 align='center'>© 2021 Oshekher</h5>
