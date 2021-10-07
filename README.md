@@ -35,12 +35,12 @@
 
 ## Kids Playlists
 
-• 1st Link : <a href="https://rawcdn.githack.com/OneFusionPlus/m3u-playlist/56e0e5b13cdf0eb56d440a173c757a290ebe948a/Kids%20Playlist/sneh-kids.m3u">Sneh Kids Playlist</a>  <br>
+• 1st Link : <a href="https://rawcdn.githack.com/OneFusionPlus/m3u-playlist/ff20956209069494f4eea1e51f2f7cfeeee7b624/Kids%20Playlist/kids.m3u">Kids Playlist</a>  <br>
 
 ## Zee5 & Sony & TataSky
 
-• 1st Link : <a href="https://raw.githack.com/OneFusionPlus/m3u-playlist/main/Zee5%20&%20Sony%20Playlist/Sony&Zee5-Sneh-IPTV.m3u">Sneh Sony & Zee5 Playlists </a><br>
-• 2nd Link : <a href="https://raw.githack.com/OneFusionPlus/m3u-playlist/main/Zee5%20&%20Sony%20Playlist/sony-sneh-iptv.m3u">Sony Playlists </a><br>
+• 1st Link : <a href="https://rawcdn.githack.com/OneFusionPlus/m3u-playlist/ff20956209069494f4eea1e51f2f7cfeeee7b624/Zee5%20&%20Sony%20Playlist/Sony&Zee5-IPTV.m3u">Sony & Zee5 Playlists </a><br>
+• 2nd Link : <a href="https://rawcdn.githack.com/OneFusionPlus/m3u-playlist/0effcc49a138b0e9300af0b4af9c2e46df87826b/Zee5%20&%20Sony%20Playlist/sony-iptv.m3u">Sony Playlists </a><br>
 • 3rd Link : <a href="https://raw.githack.com/OneFusionPlus/m3u-playlist/main/Zee5%20&%20Sony%20Playlist/mxplayer.m3u">MxPlayer Playlists </a><br>
 • 4th Link : <a href="https://raw.githack.com/OneFusionPlus/m3u-playlist/main/TataSky%20Playlist/sneh-tatasky-plus.m3u">TataSky Playlists </a><br>
 • 5th Link : <a href="https://raw.githack.com/OneFusionPlus/m3u-playlist/main/Zee5%20&%20Sony%20Playlist/voot.m3u">Voot Playlists </a><br>
@@ -51,9 +51,9 @@
 
 ## Indian Radio Playlists
 
-• 1st Link : <a href="https://raw.githack.com/OneFusionPlus/m3u-playlist/main/Radio%20Playlist/sneh-radio.m3u">Radio Playlists </a>  <br>
-• Right click on m3u playlists to copy and play in Tivimate App<br><br>
-• Click On Channels Which You Want to Play<br><br>
+• 1st Link : <a href="https://rawcdn.githack.com/OneFusionPlus/m3u-playlist/75038757d84e4703f3efe792a55dbc778e4f5536/Radio%20Playlist/radio.m3u">Radio Playlists </a>  <br>
+• Right click on m3u playlists to copy and play in Tivimate App<br>
+• Click On Channels Which You Want to Play<br>
 • And Just Enjoy 
 
 ## YouTube Playlists
