@@ -29,7 +29,7 @@
 
 ## Movies Playlists
 
-• 1st Link : <a href="https://raw.githack.com/OneFusionPlus/m3u-playlist/main/Indian%20Playlist/Movies_Playlist.m3u">Latest Movies ( OTT NAV ONLY ) </a>  <br> 
+• 1st Link : <a href="https://raw.githack.com/OneFusionPlus/m3u-playlist/main/Indian%20Playlist/Movies_Playlist.m3u">Latest Movies By Me </a>  <br> 
 • 2nd Link : <a href="https://rawcdn.githack.com/OneFusionPlus/m3u-playlist/56e0e5b13cdf0eb56d440a173c757a290ebe948a/Indian%20Playlist/sneh-hindi-movies.m3u">Old Hindi Movies</a>  <br> 
 • 3rd Link : <a href="https://rawcdn.githack.com/OneFusionPlus/m3u-playlist/56e0e5b13cdf0eb56d440a173c757a290ebe948a/Indian%20Playlist/Movies.m3u">Movies Latest</a>  <br>
 
