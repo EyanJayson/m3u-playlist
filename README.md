@@ -14,7 +14,9 @@
 3 » Zee5 & Sony Channels Updated<br>
 4 » New Indian Channels Added<br>
 5 » Working Kids Channel<br>
-6 » Update your m3u files weekly from here<br>
+6 » Working Jio Playlist Added<br>
+7 » Radio Channels Added<br>
+8 » Update your m3u files weekly from here<br>
 
 </h4>
 
@@ -29,9 +31,9 @@
 
 ## Movies Playlists
 
-• 1st Link : <a href="https://raw.githack.com/OneFusionPlus/m3u-playlist/main/Indian%20Playlist/Movies_Playlist.m3u">Latest Movies By Me </a>  <br> 
-• 2nd Link : <a href="https://rawcdn.githack.com/OneFusionPlus/m3u-playlist/56e0e5b13cdf0eb56d440a173c757a290ebe948a/Indian%20Playlist/sneh-hindi-movies.m3u">Old Hindi Movies</a>  <br> 
-• 3rd Link : <a href="https://rawcdn.githack.com/OneFusionPlus/m3u-playlist/56e0e5b13cdf0eb56d440a173c757a290ebe948a/Indian%20Playlist/Movies.m3u">Movies Latest</a>  <br>
+• 1st Link : <a href="https://raw.githack.com/OneFusionPlus/m3u-playlist/main/Movies%20Playlist/OD_Movies.m3u">On Demand Movies ⚡️</a>  <br> 
+• 2nd Link : <a href="https://rawcdn.githack.com/OneFusionPlus/m3u-playlist/2c64620d4ac70cdc31dff66d9f1a6ee0ce9e3f45/Movies%20Playlist/hindi-movies.m3u">HIN Movies Playlist</a>  <br> 
+• 3rd Link : <a href="https://rawcdn.githack.com/OneFusionPlus/m3u-playlist/2c64620d4ac70cdc31dff66d9f1a6ee0ce9e3f45/Movies%20Playlist/Movies.m3u">ALL Movies Playlist</a>  <br>
 
 ## Kids Playlists
 
@@ -42,7 +44,7 @@
 • 1st Link : <a href="https://rawcdn.githack.com/OneFusionPlus/m3u-playlist/ff20956209069494f4eea1e51f2f7cfeeee7b624/Zee5%20&%20Sony%20Playlist/Sony&Zee5-IPTV.m3u">Sony & Zee5 Playlists </a><br>
 • 2nd Link : <a href="https://rawcdn.githack.com/OneFusionPlus/m3u-playlist/0effcc49a138b0e9300af0b4af9c2e46df87826b/Zee5%20&%20Sony%20Playlist/sony-iptv.m3u">Sony Playlists </a><br>
 • 3rd Link : <a href="https://raw.githack.com/OneFusionPlus/m3u-playlist/main/Zee5%20&%20Sony%20Playlist/mxplayer.m3u">MxPlayer Playlists </a><br>
-• 4th Link : <a href="https://raw.githack.com/OneFusionPlus/m3u-playlist/main/TataSky%20Playlist/sneh-tatasky-plus.m3u">TataSky Playlists </a><br>
+• 4th Link : <a href="https://raw.githack.com/OneFusionPlus/m3u-playlist/main/TataSky%20Playlist/tatasky-plus.m3u">TataSky Playlists </a><br>
 • 5th Link : <a href="https://raw.githack.com/OneFusionPlus/m3u-playlist/main/Zee5%20&%20Sony%20Playlist/voot.m3u">Voot Playlists </a><br>
 
 ## Pluto Tv
@@ -85,23 +87,29 @@
 • Download <a href="https://files.moddroid.com/TiviMate%20IPTV%20Player/_TiviMate_2.8.0_Premium.apk">Tivimate Pro v2.8.0</a> to Play Live Channels<br><br>
 • Play in Tivimate App<br><br>
 
-## 📽 IPTV Smarters Pro v3.0.9 
+## 🎶 IPTV Smarters Pro v3.0.9 
 [ FIRESTICK / ANDROID ]
 
 • Download <a href="https://files.moddroid.com/IPTV%20Smarters%20Pro/IPTV_Smarters_Pro_v3.0.9.4_-_Mod_-_Armeabi-v7a.apk">IPTV Smarters Pro v3.0.9</a> to Play Live Channels<br><br>
 • Also Play in IPTV Smarters App<br><br>
 
-## 📽 OTT Navigator v1.6.6.6
+## 🎥 OTT Navigator v1.6.6.6
 [ FIRESTICK / ANDROID ]
 
 • Download <a href="https://wenzs-my.sharepoint.com/:u:/g/personal/oshekehr_free_stulive_com/EQpwbQiL2odIsC6o8vpwBLoBfpVtW_HPKzR-T2EwqevKIg?download=1">OTT Navigator v1.6.6.6</a> to Play Live Channels<br><br>
 • Also Play in OTT Navigator App<br><br>
 
-## 📽 IPTVNATOR v0.8.0 
+## 📺 IPTVNATOR v0.8.0 
 [ LINUX / WINDOWS ]
 
 • Download <a href="https://github.com/4gray/iptvnator/releases">IPTVNATOR</a> to Play Live Channels<br><br>
 • Also Play in IPTVNATOR<br><br>
+
+## 📽 IPTV Pro v6.1.9
+[ ANDROID ]
+
+• Download <a href="https://files.moddroid.co/IPTV%20Pro/IPTV_Pro-v6.1.9_build_1101-Mod-armeabi-v7a.apk">IPTV Pro</a> to Play Live Channels<br><br>
+• Also Play in IPTV Pro App<br><br>
 
 ---
 
@@ -137,12 +145,15 @@
 
 </h4>
 
-## ✉️ Contact Us
-[Saksham Shekher](https://telegram.me/PurityWasHere)
+```py
+Fork this and add something new here and make pull request
+```
 
-## Star this Repo if you Liked it
-
----
-Disclaimer: I in no possible way I endorse these links and they are openly availbale to the public on the internet!
-
+```py 
+           Copyright 2021 Saksham Shekher
+           
+[+] - Copying this site without giving star is crime   
+[+] - Follow us and enjoy all contents here 
+[+] - Disclaimer: I in no possible way endorse these links and they are openly availbale to the public on the internet!
+```
 <h5 align='center'>© 2021 Oshekher</h5>
