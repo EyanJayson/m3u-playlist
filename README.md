@@ -37,7 +37,7 @@
 
 ## Kids Playlists
 
-• 1st Link : <a href="https://rawcdn.githack.com/OneFusionPlus/m3u-playlist/ff20956209069494f4eea1e51f2f7cfeeee7b624/Kids%20Playlist/kids.m3u">Kids Playlist</a>  <br>
+• 1st Link : <a href="https://raw.githack.com/OneFusionPlus/m3u-playlist/main/Kids%20Playlist/kids.m3u">Kids Playlist</a>  <br>
 
 ## Zee5 & Sony & TataSky
 
